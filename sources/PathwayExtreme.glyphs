@@ -64,6 +64,15 @@ wght = {
 900 = 300;
 };
 };
+},
+{
+name = fsType;
+value = (
+);
+},
+{
+name = "Use Line Breaks";
+value = 1;
 }
 );
 date = "2022-08-05 13:13:31 +0000";
@@ -529,38 +538,6 @@ name = strikeoutSize;
 value = 50;
 },
 {
-name = subscriptXOffset;
-value = 0;
-},
-{
-name = subscriptXSize;
-value = 650;
-},
-{
-name = subscriptYOffset;
-value = 75;
-},
-{
-name = subscriptYSize;
-value = 600;
-},
-{
-name = superscriptXOffset;
-value = 0;
-},
-{
-name = superscriptXSize;
-value = 650;
-},
-{
-name = superscriptYOffset;
-value = 350;
-},
-{
-name = superscriptYSize;
-value = 600;
-},
-{
 name = hheaAscender;
 value = 1070;
 },
@@ -571,82 +548,6 @@ value = -286;
 {
 name = hheaLineGap;
 value = 0;
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 4;
-},
-{
-Axis = Width;
-Location = 100;
-},
-{
-Axis = "Optical Size";
-Location = 8;
-},
-{
-Axis = Slant;
-Location = 0;
-}
-);
-},
-{
-name = TTFZones;
-value = (
-{
-name = xhgt;
-pos = 540;
-size = 7;
-},
-{
-name = "T: 570";
-pos = 570;
-size = 7;
-},
-{
-name = caps;
-pos = 700;
-size = 7;
-},
-{
-name = asc;
-pos = 740;
-size = 7;
-},
-{
-name = base;
-pos = 0;
-size = -7;
-},
-{
-name = dsc;
-pos = -180;
-size = -7;
-}
-);
-},
-{
-name = TTFStems;
-value = (
-{
-horizontal = 1;
-name = "50";
-width = 50;
-},
-{
-horizontal = 1;
-name = "54";
-width = 54;
-},
-{
-horizontal = 0;
-name = "60";
-width = 60;
-}
-);
 },
 {
 name = "Alignment Zones";
@@ -771,38 +672,6 @@ name = strikeoutSize;
 value = 50;
 },
 {
-name = subscriptXOffset;
-value = 0;
-},
-{
-name = subscriptXSize;
-value = 650;
-},
-{
-name = subscriptYOffset;
-value = 75;
-},
-{
-name = subscriptYSize;
-value = 600;
-},
-{
-name = superscriptXOffset;
-value = 0;
-},
-{
-name = superscriptXSize;
-value = 650;
-},
-{
-name = superscriptYOffset;
-value = 350;
-},
-{
-name = superscriptYSize;
-value = 600;
-},
-{
 name = hheaAscender;
 value = 1070;
 },
@@ -813,77 +682,6 @@ value = -286;
 {
 name = hheaLineGap;
 value = 0;
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 300;
-},
-{
-Axis = Width;
-Location = 100;
-},
-{
-Axis = "Optical Size";
-Location = 8;
-},
-{
-Axis = Slant;
-Location = 0;
-}
-);
-},
-{
-name = TTFZones;
-value = (
-{
-name = xhgt;
-pos = 540;
-size = 13;
-},
-{
-name = "T: 570";
-pos = 570;
-size = 13;
-},
-{
-name = fig;
-pos = 700;
-size = 13;
-},
-{
-name = asc;
-pos = 740;
-size = 13;
-},
-{
-name = base;
-pos = 0;
-size = -13;
-},
-{
-name = dsc;
-pos = -180;
-size = -13;
-}
-);
-},
-{
-name = TTFStems;
-value = (
-{
-horizontal = 1;
-name = "167";
-width = 167;
-},
-{
-horizontal = 0;
-name = "250";
-width = 250;
-}
-);
 },
 {
 name = "Alignment Zones";
@@ -999,38 +797,6 @@ name = strikeoutSize;
 value = 50;
 },
 {
-name = subscriptXOffset;
-value = 0;
-},
-{
-name = subscriptXSize;
-value = 650;
-},
-{
-name = subscriptYOffset;
-value = 75;
-},
-{
-name = subscriptYSize;
-value = 600;
-},
-{
-name = superscriptXOffset;
-value = 0;
-},
-{
-name = superscriptXSize;
-value = 650;
-},
-{
-name = superscriptYOffset;
-value = 350;
-},
-{
-name = superscriptYSize;
-value = 600;
-},
-{
 name = hheaAscender;
 value = 1070;
 },
@@ -1041,82 +807,6 @@ value = -286;
 {
 name = hheaLineGap;
 value = 0;
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 4;
-},
-{
-Axis = Width;
-Location = 0;
-},
-{
-Axis = "Optical Size";
-Location = 8;
-},
-{
-Axis = Slant;
-Location = 0;
-}
-);
-},
-{
-name = TTFZones;
-value = (
-{
-name = xhgt;
-pos = 540;
-size = 7;
-},
-{
-name = "T: 570";
-pos = 570;
-size = 7;
-},
-{
-name = caps;
-pos = 700;
-size = 7;
-},
-{
-name = asc;
-pos = 740;
-size = 7;
-},
-{
-name = base;
-pos = 0;
-size = -7;
-},
-{
-name = dsc;
-pos = -180;
-size = -7;
-}
-);
-},
-{
-name = TTFStems;
-value = (
-{
-horizontal = 1;
-name = "50";
-width = 50;
-},
-{
-horizontal = 1;
-name = "54";
-width = 54;
-},
-{
-horizontal = 0;
-name = "60";
-width = 60;
-}
-);
 },
 {
 name = "Alignment Zones";
@@ -1229,38 +919,6 @@ name = strikeoutSize;
 value = 50;
 },
 {
-name = subscriptXOffset;
-value = 0;
-},
-{
-name = subscriptXSize;
-value = 650;
-},
-{
-name = subscriptYOffset;
-value = 75;
-},
-{
-name = subscriptYSize;
-value = 600;
-},
-{
-name = superscriptXOffset;
-value = 0;
-},
-{
-name = superscriptXSize;
-value = 650;
-},
-{
-name = superscriptYOffset;
-value = 350;
-},
-{
-name = superscriptYSize;
-value = 600;
-},
-{
 name = hheaAscender;
 value = 1070;
 },
@@ -1271,77 +929,6 @@ value = -286;
 {
 name = hheaLineGap;
 value = 0;
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 300;
-},
-{
-Axis = Width;
-Location = 0;
-},
-{
-Axis = "Optical Size";
-Location = 8;
-},
-{
-Axis = Slant;
-Location = 0;
-}
-);
-},
-{
-name = TTFZones;
-value = (
-{
-name = xhgt;
-pos = 540;
-size = 12;
-},
-{
-name = "T: 570";
-pos = 570;
-size = 12;
-},
-{
-name = fig;
-pos = 700;
-size = 12;
-},
-{
-name = asc;
-pos = 740;
-size = 12;
-},
-{
-name = base;
-pos = 0;
-size = -12;
-},
-{
-name = dsc;
-pos = -180;
-size = -12;
-}
-);
-},
-{
-name = TTFStems;
-value = (
-{
-horizontal = 1;
-name = "147";
-width = 147;
-},
-{
-horizontal = 0;
-name = "220";
-width = 220;
-}
-);
 },
 {
 name = "Alignment Zones";
@@ -1457,38 +1044,6 @@ name = strikeoutSize;
 value = 50;
 },
 {
-name = subscriptXOffset;
-value = 0;
-},
-{
-name = subscriptXSize;
-value = 650;
-},
-{
-name = subscriptYOffset;
-value = 75;
-},
-{
-name = subscriptYSize;
-value = 600;
-},
-{
-name = superscriptXOffset;
-value = 0;
-},
-{
-name = superscriptXSize;
-value = 650;
-},
-{
-name = superscriptYOffset;
-value = 350;
-},
-{
-name = superscriptYSize;
-value = 600;
-},
-{
 name = hheaAscender;
 value = 1070;
 },
@@ -1499,77 +1054,6 @@ value = -286;
 {
 name = hheaLineGap;
 value = 0;
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 4;
-},
-{
-Axis = Width;
-Location = 100;
-},
-{
-Axis = "Optical Size";
-Location = 144;
-},
-{
-Axis = Slant;
-Location = 0;
-}
-);
-},
-{
-name = TTFZones;
-value = (
-{
-name = xhgt;
-pos = 540;
-size = 5;
-},
-{
-name = "T: 570";
-pos = 570;
-size = 5;
-},
-{
-name = caps;
-pos = 700;
-size = 5;
-},
-{
-name = asc;
-pos = 740;
-size = 5;
-},
-{
-name = base;
-pos = 0;
-size = -5;
-},
-{
-name = dsc;
-pos = -180;
-size = -5;
-}
-);
-},
-{
-name = TTFStems;
-value = (
-{
-horizontal = 1;
-name = "4";
-width = 4;
-},
-{
-horizontal = 0;
-name = "4";
-width = 4;
-}
-);
 },
 {
 name = "Alignment Zones";
@@ -1684,38 +1168,6 @@ name = strikeoutSize;
 value = 50;
 },
 {
-name = subscriptXOffset;
-value = 0;
-},
-{
-name = subscriptXSize;
-value = 650;
-},
-{
-name = subscriptYOffset;
-value = 75;
-},
-{
-name = subscriptYSize;
-value = 600;
-},
-{
-name = superscriptXOffset;
-value = 0;
-},
-{
-name = superscriptXSize;
-value = 650;
-},
-{
-name = superscriptYOffset;
-value = 350;
-},
-{
-name = superscriptYSize;
-value = 600;
-},
-{
 name = hheaAscender;
 value = 1070;
 },
@@ -1726,77 +1178,6 @@ value = -286;
 {
 name = hheaLineGap;
 value = 0;
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 300;
-},
-{
-Axis = Width;
-Location = 100;
-},
-{
-Axis = "Optical Size";
-Location = 144;
-},
-{
-Axis = Slant;
-Location = 0;
-}
-);
-},
-{
-name = TTFZones;
-value = (
-{
-name = xhgt;
-pos = 540;
-size = 15;
-},
-{
-name = "T: 570";
-pos = 570;
-size = 15;
-},
-{
-name = fig;
-pos = 700;
-size = 15;
-},
-{
-name = asc;
-pos = 740;
-size = 15;
-},
-{
-name = base;
-pos = 0;
-size = -15;
-},
-{
-name = comma;
-pos = -180;
-size = -15;
-}
-);
-},
-{
-name = TTFStems;
-value = (
-{
-horizontal = 1;
-name = "200";
-width = 200;
-},
-{
-horizontal = 0;
-name = "300";
-width = 300;
-}
-);
 },
 {
 name = "Alignment Zones";
@@ -1915,38 +1296,6 @@ name = strikeoutSize;
 value = 50;
 },
 {
-name = subscriptXOffset;
-value = 0;
-},
-{
-name = subscriptXSize;
-value = 650;
-},
-{
-name = subscriptYOffset;
-value = 75;
-},
-{
-name = subscriptYSize;
-value = 600;
-},
-{
-name = superscriptXOffset;
-value = 0;
-},
-{
-name = superscriptXSize;
-value = 650;
-},
-{
-name = superscriptYOffset;
-value = 350;
-},
-{
-name = superscriptYSize;
-value = 600;
-},
-{
 name = hheaAscender;
 value = 1070;
 },
@@ -1957,77 +1306,6 @@ value = -286;
 {
 name = hheaLineGap;
 value = 0;
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 4;
-},
-{
-Axis = Width;
-Location = 0;
-},
-{
-Axis = "Optical Size";
-Location = 144;
-},
-{
-Axis = Slant;
-Location = 0;
-}
-);
-},
-{
-name = TTFZones;
-value = (
-{
-name = xhgt;
-pos = 540;
-size = 5;
-},
-{
-name = "T: 570";
-pos = 570;
-size = 5;
-},
-{
-name = caps;
-pos = 700;
-size = 5;
-},
-{
-name = asc;
-pos = 740;
-size = 5;
-},
-{
-name = base;
-pos = 0;
-size = -5;
-},
-{
-name = dsc;
-pos = -180;
-size = -5;
-}
-);
-},
-{
-name = TTFStems;
-value = (
-{
-horizontal = 1;
-name = "4";
-width = 4;
-},
-{
-horizontal = 0;
-name = "4";
-width = 4;
-}
-);
 },
 {
 name = "Alignment Zones";
@@ -2143,38 +1421,6 @@ name = strikeoutSize;
 value = 50;
 },
 {
-name = subscriptXOffset;
-value = 0;
-},
-{
-name = subscriptXSize;
-value = 650;
-},
-{
-name = subscriptYOffset;
-value = 75;
-},
-{
-name = subscriptYSize;
-value = 600;
-},
-{
-name = superscriptXOffset;
-value = 0;
-},
-{
-name = superscriptXSize;
-value = 650;
-},
-{
-name = superscriptYOffset;
-value = 350;
-},
-{
-name = superscriptYSize;
-value = 600;
-},
-{
 name = hheaAscender;
 value = 1070;
 },
@@ -2185,77 +1431,6 @@ value = -286;
 {
 name = hheaLineGap;
 value = 0;
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 300;
-},
-{
-Axis = Width;
-Location = 0;
-},
-{
-Axis = "Optical Size";
-Location = 144;
-},
-{
-Axis = Slant;
-Location = 0;
-}
-);
-},
-{
-name = TTFZones;
-value = (
-{
-name = xhgt;
-pos = 540;
-size = 15;
-},
-{
-name = "T: 570";
-pos = 570;
-size = 15;
-},
-{
-name = fig;
-pos = 700;
-size = 15;
-},
-{
-name = asc;
-pos = 740;
-size = 15;
-},
-{
-name = base;
-pos = 0;
-size = -15;
-},
-{
-name = comma;
-pos = -180;
-size = -15;
-}
-);
-},
-{
-name = TTFStems;
-value = (
-{
-horizontal = 1;
-name = "200";
-width = 200;
-},
-{
-horizontal = 0;
-name = "300";
-width = 300;
-}
-);
 },
 {
 name = "Alignment Zones";
@@ -145148,7 +144323,9 @@ value = "C8B4B1A0-F191-4142-9AA6-B9AE3C7BFB7E";
 }
 );
 instanceInterpolations = {
-"C8B4B1A0-F191-4142-9AA6-B9AE3C7BFB7E" = 1;
+"044BBB63-5120-4E70-970B-668628603B6C" = -0.11111;
+"486D3314-9C11-443C-84EF-BC26BC6EF4F4" = 1.16993;
+"48FF9396-4D7D-4D4D-86EB-84D256671726" = -0.05882;
 };
 name = Regular;
 type = variable;
@@ -145893,7 +145070,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright © 2019 by Eduardo Rodriguez Tunni. All rights reserved.";
+value = "Copyright 2019 The Pathway Extreme Project Authors (https://github.com/etunni/Pathway-Variable-Font)";
 }
 );
 },
@@ -145908,7 +145085,7 @@ value = "Eduardo Rodriguez Tunni";
 },
 {
 key = designerURL;
-value = "http://www.tipo.net.ar";
+value = "https://www.tipo.net.ar/";
 },
 {
 key = manufacturers;
@@ -145921,32 +145098,29 @@ value = "Eduardo Rodriguez Tunni";
 },
 {
 key = manufacturerURL;
-value = "http://www.tipo.net.ar";
+value = "https://www.tipo.net.ar/";
 },
 {
 key = licenses;
 values = (
 {
 language = dflt;
-value = "Copyright 2019 Eduardo Rodriguez Tunni
-
-Licensed under the Apache License, Version 2.0 (the \"License\");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an \"AS IS\" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
 }
 );
 },
 {
 key = licenseURL;
-value = "http://www.apache.org/licenses/LICENSE-2.0";
+value = "https://scripts.sil.org/OFL";
+},
+{
+key = trademarks;
+values = (
+{
+language = dflt;
+value = "Pathway Extreme is a trademark of Eduardo Rodriguez Tunni.";
+}
+);
 }
 );
 stems = (
