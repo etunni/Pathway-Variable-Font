@@ -144322,6 +144322,7 @@ name = "Variable Font Origin";
 value = "C8B4B1A0-F191-4142-9AA6-B9AE3C7BFB7E";
 }
 );
+exports = 0;
 instanceInterpolations = {
 "044BBB63-5120-4E70-970B-668628603B6C" = -0.11111;
 "486D3314-9C11-443C-84EF-BC26BC6EF4F4" = 1.16993;
