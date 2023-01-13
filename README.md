@@ -1,6 +1,6 @@
 # Pathway Extreme
 
-![](PATHWAY-COVER.jpg)
+![](documentation/PATHWAY-COVER.jpg)
 
 Pathway Extreme come from published Pathway Gothic One, a narrow grotesque sans typeface, a very popular style in the history of typography.Now redesigned wit the advantages of variable font technology.
 
