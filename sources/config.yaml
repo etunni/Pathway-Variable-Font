@@ -7,7 +7,7 @@
       - wght
       - ital
     familyName: Pathway Extreme
-    buildStatic: false
+    buildStatic: true
     stat:
       PathwayExtreme[opsz,wdth,wght].ttf:
       - name: Optical size
